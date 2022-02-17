@@ -16,6 +16,7 @@
   "dependencies": {
     "johnny-five": "^2.1.0",
     "modbus-serial": "^8.0.5",
+    "onoff": "^6.0.3",
     "raspi-io": "^11.0.0",
     "serialport": "^9.2.5"
   },
